@@ -37,6 +37,20 @@ Some features I'd like to add in the future:
 - Add JavaScript for interactivity
 - Add login and signup pages
 
+## Screenshots
+<h2>📸 Project Preview</h2>
+<img src="SS1.jpeg" width="700">
+<br><br>
+<img src="SS2.jpeg" width="700">
+<br><br>
+<img src="SS3.jpeg" width="700">
+<br><br>
+<img src="SS4.jpeg" width="700">
+<br><br>
+<img src="SS5.jpeg" width="700">
+<br><br>
+<img src="SS6.jpeg" width="700">
+
 ## Author
 
 **Avani Chauhan**
